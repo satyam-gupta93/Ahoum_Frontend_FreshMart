@@ -11,14 +11,6 @@ The application implements a complete user flow including a splash screen, onboa
 ### Home Dashboard
 ![Home Dashboard](./public/screenshots/home.png)
 
-### Sign Up Page
-![Sign Up Page](./public/screenshots/signup.png)
-
-### OTP Verification
-![OTP Verification](./public/screenshots/otp.png)
-
-
-
 ### Shopping Cart
 ![Shopping Cart](./public/screenshots/cart.png)
 
